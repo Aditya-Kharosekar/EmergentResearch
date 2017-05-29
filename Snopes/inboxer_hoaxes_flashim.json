@@ -1,0 +1,14 @@
+{
+  "Origins": "This is one of the more venerable Internet hoaxes (excluding bogus computer virus warnings, which will probably outlive us all), having circulated unchanged since 1998. Its premise is a bit farcical, somewhat like claiming \"If you receive an e-mail message containing bold text , it's a password stealer!\" Not all flashing messages are sent by people intent upon stealing your password, and not all password-stealers advertise their efforts by sending flashing messages.",
+  "Fact Check": "",
+  "Description": "Nearly all instant messaging services not just AOL's Instant Messenger ( AIM ) but others such as ICQ have been the target password-stealing hacks at one time or another, but none of them involved password thefts triggered (or announced) by the receipt of flashing messages. And if AOL has truly \"confirmed\" the efficacy of this three-year-old warning, it's amazing that they make no mention of it on their web site . It's a fact of life that anything protected by a password will attract those bent on stealing the password, but jumping at shadows (or flashing messages) won't protect you from thieves. Your best protection is to follow standard password guidelines and to periodically check for security updates concerning the applications you use.",
+  "Originally Published": "",
+  "Referred Links": "http://www.symantec.com/avcenter/;http://computing.fnal.gov/security/UserGuide/password.htm;http://www.aol.com/aim/faq/passwords.html;http://news.cnet.com/news/0-1005-200-1556634.html?tag=bplst;http://web.icq.com/index/;http://www.aol.com/aim/homenew.adp;",
+  "Example": "[Collected on the Internet, 1998] If you get a Flashing IM, DO NOT reply or delete, but sign off immediately and re-sign on. Then change your password immediately. If you are unable to sign on, call AOL. The number is 1-800-827-6364 The Flashing IM is a password stealer. This has been confirmed by AOL. PLEASE FORWARD TO EVERYONE YOU KNOW!!",
+  "Last Updated": "29 October 2007",
+  "Credibility": "false",
+  "URL": "www.snopes.com/inboxer/hoaxes/flashim.asp",
+  "Claim": "A flashing Instant Message is a sign that someone is trying to steal your password.",
+  "Claim_ID": "inboxer_hoaxes_flashim",
+  "Tags": ""
+}

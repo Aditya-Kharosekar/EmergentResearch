@@ -1,0 +1,14 @@
+{
+  "Origins": "Of the many free on-line services that have sprung up on the Internet, one of the most indispensible is the type (offered by a variety of different providers) that allows a user to enter a starting location and a destination and receive detailed driving directions between the two points. Most of these services work very well, but due to factors such as changing road conditions, out-of-date or inaccurate maps, and the vagaries of software, sometimes the route selected isn't quite the fastest or the shortest. For example, in early 2005 MSN's MapPoint service seemed to have a teensy little bug in its \"optimal route\" algorithm.",
+  "Fact Check": "",
+  "Description": "The user who went to the MapPoint Get Directions screen and requested information on a route from Trondheim, Norway, to Haugesund, Norway, found that those cities were 476 miles apart, with a driving time of about 11 hours between them. Evidently Norway is a country of nothing but one-way streets, though, because according to MapPoint, the route from Haugesund back to Trondheim was slightly longer over 1,200 miles longer, in fact. Yes, as MapPoint plotted it, the trip from Haugesund to Trondheim was an arduous two-day journey that involved crossing the North Sea, the English Channel, and the Baltic Sea; traversing seven different countries (the U.K., France, Belgium, Netherlands, Germany, Denmark, and Sweden); and traveling a grand total of 1,686 miles all to get between two cities less than 500 miles apart in the same country: Since February 2005 the bug in MapPoint has been appearing intermittently. Sometimes MapPoint displays the circuitous route displayed above, and sometimes it displays a much more reasonable route: Good thing they're getting that corrected, because if I took my wife on a two-day excursion to drive 500 miles , she'd never have believed me when I told her, \"Honestly, I did ask for directions . . .\"",
+  "Originally Published": "",
+  "Referred Links": "http://mappoint.msn.com/DirectionsFind.aspx;http://mappoint.msn.com/DirectionsFind.aspx;",
+  "Example": "[Collected on the Internet, 2005] Route finders are fantastic. They save so much time and effort. Try this to see what I mean: 1. Go to http://mappoint.msn.com/DirectionsFind.aspx 2. In the Start section, select \"Norway\" from the list box and enter \"Haugesund\" into the \"City\" field 3. In the End section, select \"Norway\" from the list box and enter \"Trondheim\" into the \"City\" field 4. Click on \"Get Directions\" ... Well done Microsoft.",
+  "Last Updated": "4 February 2005",
+  "Credibility": "true",
+  "URL": "www.snopes.com/computer/internet/mappoint.asp",
+  "Claim": "MSN's MapPoint service displayed an unusually long route between two Norwegian cities.",
+  "Claim_ID": "computer_internet_mappoint",
+  "Tags": ""
+}

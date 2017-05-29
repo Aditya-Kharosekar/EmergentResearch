@@ -1,0 +1,14 @@
+{
+  "Origins": "Yes, \"Shakira's Pictures\" (also known as \"ShakiraPics\" or VBS.VBSWG.AQ@mm) is yet another worm that infects PCs through e-mail attachments, then attempts to replicate itself by using Microsoft Outlook to send itself to the contacts in the infected user's Outlook program. After infection, it displays the following message:",
+  "Fact Check": "",
+  "Description": "See the links below for more information on detecting and removing this virus. Additional Information: VBS.VBSWG.AQ@mm (Symantec) VBS/VBSWG.aq@MM (McAfee Virus Information Library)",
+  "Originally Published": "",
+  "Referred Links": "http://vil.mcafee.com/dispVirus.asp?virus_k=99506&;http://securityresponse.symantec.com/avcenter/venc/data/vbs.vbswg.aq@mm.html;",
+  "Example": "[Collected on the Internet, 2001] Subject: Shakira's Pictures Message: Hi : i have sent the photos via attachment have funn... Attachment: ShakiraPics.jpg.vbs",
+  "Last Updated": "29 January 2008",
+  "Credibility": "true",
+  "URL": "www.snopes.com/computer/virus/shakira.asp",
+  "Claim": "A message with a subject line of \"Shakira's Pictures\" may include a virus.",
+  "Claim_ID": "computer_virus_shakira",
+  "Tags": ""
+}

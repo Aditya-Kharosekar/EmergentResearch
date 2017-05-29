@@ -1,0 +1,14 @@
+{
+  "Origins": "As PC Magazine reported on 5 January 2012:",
+  "Fact Check": "",
+  "Description": "That same day, Seculert stated of Ramnit that: Recently, our research lab identified a completely new 'financial' Ramnit variant aimed at stealing Facebook login credentials. Since the Ramnit Facebook C&C URL is visible and accessible it was fairly straightforward to detect that over 45,000 Facebook login credentials have been stolen worldwide, mostly from users in the United Kingdom and France. We suspect that the attackers behind Ramnit are using the stolen credentials to log-in to victims' Facebook accounts and to transmit malicious links to their friends, thereby magnifying the malware's spread even further. In addition, cybercriminals are taking advantage of the fact that users tend to use the same password in various web-based services (Facebook, Gmail, Corporate SSL VPN, Outlook Web Access, etc.) to gain remote access to corporate networks. With the recent ZeuS Facebook worm and this latest Ramnit variant, it appears that sophisticated hackers are now experimenting with replacing the old-school email worms with more up-to-date social network worms. As demonstrated by the 45,000 compromised Facebook subscribers, the viral power of social networks can be manipulated to cause considerable damage to individuals and institutions when it is in the wrong hands.",
+  "Originally Published": "",
+  "Referred Links": "http://blog.seculert.com/2012/01/ramnit-goes-social.html;http://www.symanteccloud.com/mlireport/SYMCINT_2011_07_July_FINAL-EN.pdf;",
+  "Example": "[Collected via e-mail, January 2012] Comment: Malware Worm Spreading on Facebook 45,000 Passwords Stolen So Far Seculert issued a warning today that the Ramnit worm, which has traditionally targeted financial login credentials, is now targeting Facebook users. At the time of the release, 45,000 login credentials had been stolen with most of those from users residing in the UK and France. Ramnit is known to attack windows executable files (files ending with exe), MS Office files and HTML documents. The worm s goal is to steal sensitive data such as user names, passwords, FTP credentials and browser cookies.",
+  "Last Updated": "5 January 2012",
+  "Credibility": "true",
+  "URL": "www.snopes.com/computer/facebook/ramnit.asp",
+  "Claim": "The Ramnit worm has been stealing Facebook credentials.",
+  "Claim_ID": "computer_facebook_ramnit",
+  "Tags": ""
+}

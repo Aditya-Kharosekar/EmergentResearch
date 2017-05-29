@@ -1,0 +1,14 @@
+{
+  "Origins": "Just about any bit of Internet effluvia, it seems, can be given new life by dressing it up with the claim that sending it along will cause something to \"appear on your screen.\" Just as forwarding the latest silly message to umpteen friends will not cause a cute video clip to waltz across one's PC screen, sending this puzzler along to more people will not produce the correct answer (unless one of the recipients writes back with the solution).",
+  "Fact Check": "",
+  "Description": "This particular item stumps a good many people because it contains a simple error which is often overlooked due to its deceptive wording. Tracking the money through the transactions referenced in the text reveals that no money has gone missing: 1) The three men start out with $10 each ($10 x 3 = $30). 2) The three men pay $30 for a hotel room. Afterwards, a five dollar overcharge is returned to them ($25 + $5 = $30). 3) The bellboy divides up the $5 overcharge, returning $1 to each of the three men (for a total of $3) and keeping $2 for himself ($25 + $3 + $2 = $30). Where did the missing dollar go? Nowhere. A dollar only goes \"missing\" because the statement \"each man paid $9 for the room\" is wrong: each of three men paid out a total of $9, but that $9 included both the room charge and the bellboy's tip. All in all, each man paid out a total of $9 and had $1 left over, completely accounting for the $30 they started with. The room cost $25, so each man paid one-third of that cost ($8.33). The bellboy kept a tip of $2, so each man paid one-third of that cost ($0.67) as well. Overall, each man paid out $9 ($8.33 + $0.67) for the room and bellboy tip and had a dollar left over: (3 x $9) + (3 x $1) = $27 + $3 = $30 . Any dollars still left unaccounted for may be sent to us for proper disposal.",
+  "Originally Published": "",
+  "Referred Links": "",
+  "Example": "[Collected via the Internet, 2002] Three men go into a motel. The desk clerk said the room was $30, so each man paid $10 and went to the room. A while later, the desk clerk realized the room was only $25, so he sent the bellboy to the three guys' room with $5. On the way, the bellboy couldn't figure out how to split $5 evenly between three men, so he gave each man $1 and kept the other $2 for himself. This meant that the 3 men each paid $9 for the room, which is a total of $27. Add to that the $2 the bellboy kept and the total is $29. Where is the other dollar? Send this to 5 people and the answer will appear on your screen.",
+  "Last Updated": "14 April 2014",
+  "Credibility": "false",
+  "URL": "www.snopes.com/inboxer/trivia/dollar.asp",
+  "Claim": "Dollar disappears during motel transaction.",
+  "Claim_ID": "inboxer_trivia_dollar",
+  "Tags": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Origins": "The \"Send Money Now\" message quoted above is another scam of the \"your card has already been charged\" variety, intended to lure gullible recipients into revealing their credit/debit card numbers and other personal information in order to cancel (or approve) a fictitious transaction.",
+  "Fact Check": "",
+  "Description": "Although the text of the message makes it appear that the user who clicks through is being taken to a site called send-money-now.com (which doesn't appear to exist) or sendmoneynow.com (which does exist but disclaims any connection to this scam), the link actually sends the user to a slick-looking site based in South Korea. The user is presented with what looks like a request to send $373.56 to a \" Brenda J Cutler\" in California and is asked to approve or decline the transaction, but either option takes the user to a second form with fields for entering a wealth of personal information (address, credit card info, PIN, mother's maiden name, etc.). All the information collected is then e-mailed off to the scammers. The best approach to this type of message is simply to delete it don't respond to it, and don't under any circumstances fill out the fields with valid credit/debit card information. If you're truly concerned that unauthorized charges may have been placed on one of your credit/debit cards, contact your bank or credit card company directly.",
+  "Originally Published": "",
+  "Referred Links": "http://211.117.210.3/samji/snd/step2.htm;http://211.117.210.3/samji/snd/step_1.htm;http://www.sendmoneynow.com/;http://www.send-money-now.com;",
+  "Example": "[Collected on the Internet, 2003] Dear customer, Send Money Now is a global leader in online money transfer services, with a history of pioneering service dating back more than 5 years. Recently, we have received an order for money transfer services in amount of $373.56 paid by using your debit card. Our Fraud Department has suspended this order due to high probability of fraud. In security purposes, the order can be approved or declined only by the real cardholder. Please, follow the link below to resolve this matter: http://send-money-now.com/order_verify.cgi?f9skk Sorry for the inconvenience and thanks for your understanding. Sincerely, Send Money Now Security Team",
+  "Last Updated": "7 January 2008",
+  "Credibility": "false",
+  "URL": "www.snopes.com/inboxer/scams/moneynow.asp",
+  "Claim": "A company called Send Money Now has charged $373.56 to your debit card.",
+  "Claim_ID": "inboxer_scams_moneynow",
+  "Tags": ""
+}

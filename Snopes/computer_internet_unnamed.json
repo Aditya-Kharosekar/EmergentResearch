@@ -1,0 +1,14 @@
+{
+  "Origins": "The above-quoted alert about an \"Unnamed App\" in Facebook's profile settings which purportedly harbors a \"spybot\" began circulating in January 2010. There appears to be nothing to the warning: As noted in Facebook's Help Center, the \"Unnamed App\" merely links to a setting that controls the \"boxes\" tabs in users' profiles delete the app, and \"boxes\" tabs disappear; add profile boxes back, and the unnamed app reappears. (Some users have reported that, nonetheless, Facebook appeared to load faster for them after they removed the \"unnamed app\" from their profiles.)",
+  "Fact Check": "",
+  "Description": "As usual, a number of sites on the Internet purporting to carry information about this warning themselves harbor forms of malware or spyware, so be cautious when searching for information and try to stick to reputable, trusted sites.",
+  "Originally Published": "",
+  "Referred Links": "http://wiki.developers.facebook.com/index.asp/Tabbed_Profile;http://www.facebook.com/help/?question=327204;",
+  "Example": "[Collected via e-mail, January 2010] Repost-ALERT \"Has your facebook been running slow lately? Go to \"Settings\" and select \"application settings\", change the dropdown box to \"added to profile\". If you see one in there called \"unnamed app\" delete it... Its an internal spybot. Pass it on. I actually found in my Apps\" ............pass it along This was there... This was messing up some of my other apps. Deleting it fixed the problem.",
+  "Last Updated": "27 January 2010",
+  "Credibility": "false",
+  "URL": "www.snopes.com/computer/internet/unnamed.asp",
+  "Claim": "An \"Unnamed App\" in Facebook's profile settings harbors a spybot.",
+  "Claim_ID": "computer_internet_unnamed",
+  "Tags": ""
+}

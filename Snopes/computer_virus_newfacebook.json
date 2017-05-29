@@ -1,0 +1,14 @@
+{
+  "Origins": "The warning reproduced above about Facebook users being tricked into opening an attachment that promises access to \"the new Facebook\" but instead allows a hacker to steal their information and lock them out of their pages began spreading via Facebook posts and e-mail in mid-May 2011 and has continued to circulate in sporadic bursts ever since.",
+  "Fact Check": "",
+  "Description": "This warning is nothing more than a hoax spread by well-meaning but credulous Facebook users: there have been no recorded instances of \"Visit the new Facebook\" come-ons containing malicious links of any kind (only warnings about such messages) and none of the major computer security/anti-virus software companies has reported users' actually encountering Facebook info-stealing malware that reached them in such fashion.",
+  "Originally Published": "",
+  "Referred Links": "http://nakedsecurity.sophos.com/2011/06/12/visit-the-new-facebook-scare-spreads-on-facebook/;",
+  "Example": "[Collected via e-mail, May 2011] ATTN!!! THIS NOTICE IS DIRECTED TO EVERYONE WHO HAS A PAGE ON FACEBOOK: IF SOME PEOPLE IN YOUR PROFILE OR YOUR FRIENDS SEND YOU A LINK WITH WORDS \"VISIT THE NEW FACEBOOK ' AND THERE IS THE LINK BELOW, DO NOT OPEN! IF YOU OPEN IT YOU CAN SAY GOODBYE TO YOUR PAGE. IT'S A HACKER WHO STEALS YOUR DETAILS AND REMOVES YOU FROM YOUR OWN PAGE. W A R N I N G ! ! ! ! THIS NOTICE IS DIRECTED TO ANYONE WHO HAS A FACEBOOKACCOUNT: IF SOMEONE IN YOUR PROFILE OR A FRIEND SENDS YOU A LINK THAT SAYS\"VISIT THE NEW FACEBOOK\", DO NOT OPEN. . . IF YOU DO, YOU CAN SAY GOODBYETO YOUR FACEBOOK PAGE! THIS IS ACTUALLY THE WORK OF A HACKER WHO STEALSYOUR DETAILS AND REMOVES YOU PERMANENTLY FROM YOUR OWN PAGE. PLEASECOPY.....send to your groups too....not just your friends",
+  "Last Updated": "17 May 2015",
+  "Credibility": "false",
+  "URL": "www.snopes.com/computer/virus/newfacebook.asp",
+  "Claim": "Messages containing the words \"Visit the New Facebook\" include links that give a hacker access to your Facebook account.",
+  "Claim_ID": "computer_virus_newfacebook",
+  "Tags": ""
+}

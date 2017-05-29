@@ -1,0 +1,14 @@
+{
+  "Origins": "RockMelt is a social media web browser, or \"Wowser,\" as the RockMelt site describes it. Part of RockMelt's default behavior is it sends invitations to the Facebook friends of users who install it, but those invitations do not contain or include pointers to viruses.",
+  "Fact Check": "",
+  "Description": "After new RockMelt users install the browser and log in to Facebook, one of the selectable options presented to them is whether to send RockMelt invitations to all their friends, only selected friends, or nobody. \"Send to all friends\" is the default, which means a good many RockMelt invitations have been issued by users who simply accepted all the default installation options. Some of them who breezed through the installation process likely didn't realize they were sending out invitations at all, possibly leaving both senders and recipients puzzled and mistakenly thinking the invitations were a form of virus propagation. Nonetheless, there have been no substantiated reports of invitations sent from RockMelt (or other messages masquerading as RockMelt invitations) containing viruses or installing malware, or including links to either.",
+  "Originally Published": "",
+  "Referred Links": "http://www.rockmelt.com/;",
+  "Example": "[Collected via e-mail, April 2012] Facebook Alert ***** If you get an instant message from anyone about a new browser called RockMelt- it is a virus. DO NOT OPEN IT. I dont care who sends it. Please repost. This virus will ATTACH itself to your friends list and go out to your friends, as an attachment from you IF you open it, so DON'T OPEN - DELETE IT!!.. (If you have opened it, unknowingly - PLEASE let your friends know ASAP & let the person you received it from originally, KNOW as well!!).",
+  "Last Updated": "16 April 2012",
+  "Credibility": "false",
+  "URL": "www.snopes.com/computer/internet/rockmelt.asp",
+  "Claim": "Invitations sent from the RockMelt browser harbor viruses.",
+  "Claim_ID": "computer_internet_rockmelt",
+  "Tags": ""
+}

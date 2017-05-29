@@ -1,0 +1,14 @@
+{
+  "Origins": "\"No one could buy or sell unless he had this mark, that is, the beast's name or the number that stands for his name.\" Revelation 13:17-18",
+  "Fact Check": "",
+  "Description": "THE EAN-13 barcode system is used in 85 countries, making it the most popular product scanning system of its kind in the world. It works by representing numbers as a series of seven vertical lines. Each of the seven lines is either black or white, and the sequence of lines forms a pattern which is recognized as a particular digit when scanned by a computer. Every product is assigned a unique thirteen-digit number (ten digits for the product itself, a check digit, and a couple of flag characters to indicate which organization assigned the number). Contrary to popular myth, all bar codes don't include the number 666. This belief arose because the number six is represented by a pattern similar to that of the guard bars used to mark the beginning, middle, and end of every bar code. Since the guard bars always appear three times in a given bar code, people who mistakenly read them as sixes claimed that the pattern 6-6-6 was embedded in every bar code. However, if you look closely at the '6' in a bar code, you will see that there is a wide white bar either to the left or the right of its pattern (depending upon where within the bar code the number is positioned), which is not the case with the guard bars. The only numbers on the bar code which are scanned are those shown in the conventional numerals underneath it. Barbara \"my personal barcode is 'keep 'em coming!'\" Mikkelson Additional information: Universal Product Codes",
+  "Originally Published": "",
+  "Referred Links": "http://www.adams1.com/upccode.html;",
+  "Example": "",
+  "Last Updated": "27 April 2011",
+  "Credibility": "false",
+  "URL": "www.snopes.com/business/alliance/barcode.asp",
+  "Claim": "The infamous number '666' appears in all product barcodes.",
+  "Claim_ID": "business_alliance_barcode",
+  "Tags": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Origins": "In September 2015, a rumor started circulating via Facebook claiming that users of the social network could check to see if their accounts had been hacked by commenting \"@[4:0]\" on photographs. If the code turned into the name \"Mark Zuckerberg\" when posted, that supposedly meant the posting account had not been compromised:",
+  "Fact Check": "Can Facebook users check if their accounts have been hacked by commenting \"@[4.0]\" on posts?",
+  "Description": "While typing @[4:0] on Facebook will often result in Mark Zuckerberg's name appearing (results vary depending on operating system), this is not the result of a Facebook security check. This trick has more to do with code, Facebook's mention system, and Mark Zuckerberg's site ID than it does with hacking. In 2011, after a similar trick (explaining how a long string of numbers followed by the @ symbol could turn into the words \"I'm Gay\") went viral, USA Today reporter Rosa Golijan explained that the numbers following the \"at\" (@) symbol simply corresponded to the ID number of a particular Facebook user or Facebook page: The \"@\" symbol and surrounding brackets instruct Facebook to convert the ID number into the page's title in a comment or Wall post. In this case, since Facebook founder and CEO Mark Zuckerberg's Facebook ID number is 4, the \"4:0\" corresponds to his account and is replaced with his name when inserted into a Facebook post. Last updated: 8 September 2015",
+  "Originally Published": " 8 September 2015",
+  "Referred Links": "http://www.today.com/money/why-does-251859230739-0-become-im-gay-facebook-119028;",
+  "Example": "[Collected via email, September 2015] Go onto a photo on Facebook and type in the comments @[4:0]. If it changes to Mark Zuckerberg it means your Facebook hasn't been hacked. Mark Zuckerberg is the creator of Facebook... This is new to me. Is there any truth in it?",
+  "Last Updated": "8 September 2015",
+  "Credibility": "false",
+  "URL": "www.snopes.com/mark-zuckerberg-facebook-hack/",
+  "Claim": "Facebook users can check if their accounts have been hacked by commenting \"@[4.0]\" on posts.",
+  "Tags": "facebook;hack;mark zuckerberg;",
+  "Claim_ID": "mark-zuckerberg-facebook-hack"
+}

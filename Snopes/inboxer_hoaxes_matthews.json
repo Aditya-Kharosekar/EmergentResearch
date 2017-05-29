@@ -1,0 +1,14 @@
+{
+  "Origins": "No, popular entertainer Dave Matthews (of the Dave Matthews Band ) is not dead, nor are the Olsen twins or Britney Spears enrolling at Tufts, Purdue, Carnegie Mellon, or any other university.",
+  "Fact Check": "",
+  "Description": "The web site at IP address 66.111.43.11 is spo0fed.com, which hosts a number of spoofed CNN pages about such made-up topics as Britney Spears enrolling at Tufts, the Olsen Twins attending Purdue University, Dave Matthews dying of a drug overdose, Trishelle Goodwin (of MTV's Real World Las Vegas) killing herself, etc. All the articles are poorly-written, with numerous spelling and grammatical mistakes that clearly mark them as nothing ever issued by the real CNN. (The site's availability is spotty now that it's been \"discovered,\" and most visitors now see only error messages instead of content.) Many web surfers have been confused by these spoofs because they're led to the site by URLs such as the following: http://www.cnn.com@66.111.43.11/reports/2003/WORLD/0194/4448369.html This link looks like its pointing to a section of World News articles at CNN.com, but everything preceding an '@' character in a URL is generally ignored, so this link actually redirects the user to pages hosted on the site at the IP address 66.111.43.11 . (Try this example: the URL http://www.msnbc.com@198.64.132.113/rumors/msnbc.htm doesn't take you to MSNBC; it takes you to a page about MSNBC on our own web site.) The use of an IP address rather than a domain name helps conceal the identity of the site to which the user has been redirected and heightens the illusion that the reader is viewing a \"real\" CNN page.",
+  "Originally Published": "",
+  "Referred Links": "http://www.msnbc.com@198.64.132.113/rumors/msnbc.htm;http://www.cnn.com@66.111.43.11/reports/2003/WORLD/0194/4448369.html;http://www.dmband.com/;",
+  "Example": "",
+  "Last Updated": "30 October 2007",
+  "Credibility": "false",
+  "URL": "www.snopes.com/inboxer/hoaxes/matthews.asp",
+  "Claim": "Popular entertainer Dave Matthews is dead.",
+  "Claim_ID": "inboxer_hoaxes_matthews",
+  "Tags": ""
+}
