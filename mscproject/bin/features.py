@@ -43,7 +43,7 @@ transforms = {
 predictor = LogitPredictor
 p = predictor(transforms.values() )
 
-def get_data():
+def get_data(num):
     train_data = get_dataset('url-versions-2015-06-14-clean-train.csv')
     X, y = split_data(train_data)
     X = p.pipeline.fit_transform(X)
@@ -54,14 +54,21 @@ def get_data():
     X2 = X[1489:]
     
     
+    #test_data = get_dataset('url-versions-2015-06-14-clean.csv')
     test_data = get_dataset('Snopes_batch_testing.csv')
-    #test_data = get_dataset('url-versions-2015-06-14-clean-test.csv')
     X_test, y_test = split_data(test_data)
+    
+    df1 = pd.DataFrame(X_test)
+    df1.to_csv('C:/Users/Aditya Kharosekar/Desktop/Emergent Research/mscproject/data/emergent/X_test2.csv', index=None)
     X_test = p.pipeline.transform(X_test)
     
     X_test = X_test.todense()
     df = pd.DataFrame(X_test)
-    df.to_csv('mscproject/data/emergent/Snopes_features2.csv')
+    filename = 'C:/Users/Aditya Kharosekar/Desktop/Emergent Research/mscproject/data/emergent/Snopes' + str(num) + '.csv'
+    df.to_csv(filename)
+    #df.to_csv('../data/emergent/Emergent_features.csv', index = None)
+    print "csv created"
+    print num
     # return train/ validation/ test
     #return (train_data1, X1, train_data2, X2, test_data, X_test)
     
@@ -73,5 +80,5 @@ def get_snopes():
     
     return(test_data, X_test)
 
-def hello():
-    print "Hello"
+if __name__=="__main__":
+    get_data()
