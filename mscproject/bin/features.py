@@ -57,6 +57,7 @@ def get_data(num):
     #test_data = get_dataset('url-versions-2015-06-14-clean.csv')
     test_data = get_dataset('Snopes_batch_testing.csv')
     article_headlines = test_data['articleHeadline']
+    claim_headlines = test_data['claimHeadline']
     X_test, y_test = split_data(test_data)
     
     X_test = p.pipeline.transform(X_test)
@@ -64,6 +65,7 @@ def get_data(num):
     X_test = X_test.todense()
     df = pd.DataFrame(X_test)
     df['articleHeadline'] = article_headlines
+    df['claimHeadline'] = claim_headlines
     filename = 'C:/Users/Aditya Kharosekar/Desktop/Emergent Research/mscproject/data/emergent/Snopes_Transformations/Snopes' + str(num) + '.csv'
     df.to_csv(filename)
     #df.to_csv('../data/emergent/Emergent_features.csv', index = None)

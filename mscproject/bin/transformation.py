@@ -62,6 +62,7 @@ def compute_and_save_transformations(starting_claim_id):
 
 	features.get_data(starting_claim_id)
 
-if __name__=='__main__':
-	#for i in range(1, 262): #The last batch starts at id 4700, which is (18*261)+2
-	compute_and_save_transformations(20)
+
+if __name__=="__main__":
+	for i in range(1, 262):
+		compute_and_save_transformations(18*i + 2)
