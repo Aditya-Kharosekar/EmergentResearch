@@ -59,7 +59,6 @@ def get_data(num):
     article_headlines = test_data['articleHeadline']
     claim_headlines = test_data['claimHeadline']
     X_test, y_test = split_data(test_data)
-    
     X_test = p.pipeline.transform(X_test)
     
     X_test = X_test.todense()

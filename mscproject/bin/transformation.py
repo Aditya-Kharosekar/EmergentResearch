@@ -13,7 +13,6 @@ def compute_and_save_transformations(starting_claim_id):
 	deficient_claims = []
 	deficient_articles = []
 
-	deficient = (-1, -1) #First number is claimId which has <10 articles. Second number is how many articles it actually has
 	ending_claim = starting_claim_id+17
 
 	template_csv = pd.read_csv('../../url-versions-2015-06-14-clean-test2.csv')
@@ -57,6 +56,8 @@ def compute_and_save_transformations(starting_claim_id):
 
 	template_csv['claimHeadline'] = all_claims.values
 	template_csv['articleHeadline'] = all_articles.values
+    
+	template_csv = template_csv.loc[:, 'claimHeadline':'claimId']
 
 	template_csv.to_csv('../data/emergent/Snopes_batch_testing.csv')
 
